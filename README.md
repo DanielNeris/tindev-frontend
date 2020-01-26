@@ -1,6 +1,5 @@
 <h1 align="center">
-<!--     <img alt="Rocketfy" title="#delicinha" src="" width="100px" /> -->
-    Rocketfy
+    <img alt="Rocketfy" title="#delicinha" src="" width="100px" />
 </h1>
 
 <h4 align="center">
@@ -18,14 +17,14 @@
 <p align="center">
   <img 
        alt="Frontend" 
-       src="https://github.com/DanielNeris/portifolio/blob/master/src/assets/projects/rocketfy.jpg" 
+       src="https://github.com/DanielNeris/portifolio/blob/master/src/assets/projects/tindev.jpg" 
        width="100%"
   />
 </p>
 
 ## 💻 Project
 
-The RocketShoes is an application that copy of the Pipefy, with the aim practice the drag and drop functionality.
+The TinDev is an application to search for developers for technologies and match similarly to Tindev.
 
 ## :rocket: Technology
 
