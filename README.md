@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Rocketfy" title="#delicinha" src="" width="100px" />
+    <img alt="TinDev" title="#delicinha" src="src/assets/logo.png" width="100px" />
 </h1>
 
 <h4 align="center">
